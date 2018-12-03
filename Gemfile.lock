@@ -6,6 +6,7 @@ GEM
     method_source (0.9.2)
     mustermann (1.0.3)
     pg (1.1.3)
+    pivotal_git_scripts (1.4.0)
     pry (0.12.2)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
@@ -37,6 +38,7 @@ PLATFORMS
 
 DEPENDENCIES
   pg
+  pivotal_git_scripts
   pry
   rspec
   sinatra
